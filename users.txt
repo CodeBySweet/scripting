@@ -1,1 +1,3 @@
-Shirin
+Name: Shirin
+Title: Junior DevOps 
+Hobbies: Cooking 

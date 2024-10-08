@@ -1,7 +1,11 @@
 Name: Shirin
-Title: Junior DevOps 
+Title: Junior DevOps
 Hobbies: Cooking
 
 Name: Ilhom S.
 Title: Manager
-Hobby: Reading 
+Hobbies: Cooking 
+
+Name: Maryam S.
+Title: Student
+Hobbies: Reading

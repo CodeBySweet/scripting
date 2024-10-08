@@ -1,3 +1,7 @@
 Name: Shirin
 Title: Junior DevOps 
-Hobbies: Cooking 
+Hobbies: Cooking
+
+Name: Ilhom S.
+Title: Manager
+Hobby: Reading 
